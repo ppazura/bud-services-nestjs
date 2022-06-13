@@ -1,0 +1,82 @@
+{
+  "components": {
+    "new-style-header": {
+      "nav-button": {
+        "work-organization-collection": {
+          "label": "Work Organization Collection",
+          "path": "work-organization-collection"
+        },
+        "all-products": {
+          "label": "All products",
+          "path": "all-products"
+        },
+        "shop-online": {
+          "label": "Shop online",
+          "path": "shop-online"
+        },
+        "contact-us": {
+          "label": "Contact us",
+          "path": "contact-us"
+        },
+        "our-story": {
+          "label": "Our story",
+          "path": "our-story"
+        },
+        "faq": {
+          "label": "FAQ",
+          "path": "faq"
+        },
+        "search": {
+          "label": "search",
+          "path": "search"
+        },
+        "collection": {
+          "label": "Collection",
+          "path": "collection"
+        }
+      }
+    },
+    "products-header": {
+      "nav-button": {
+        "organizers": {
+          "label": "Organizers",
+          "path": "organizers"
+        },
+        "trays": {
+          "label": "Trays",
+          "path": "trays"
+        },
+        "stands": {
+          "label": "Stands",
+          "path": "stands"
+        }
+      }
+   }
+  },
+  "products": {
+    "pencil-holder": {
+      "name": "",
+      "header": "Wooden Desk Organizer",
+      "selectors": {
+        "wood-type": {
+          "label": "Rodzaj drewna",
+          "options": {
+            "jesion": "Jesion",
+            "dab": "Dąb"
+          }
+        }
+      },
+      "description": "Elegant wooden desk organizer, handcrafted in solid wood. Made in minimalistic and organic shape. This small piece of wood will be a perfect complement for your interior and work space. Use it to display and organize your tech and everyday needs. The possibilities are endless with one of these organizers. It is a great opportunity to organize your pens, pencils, notes, photos or even makeup and beauty products or jewelry.<br><br>Size L",
+      "price": "$105",
+      "details": {
+        "dimensions": "height: 3cm - 1,2in<br>depth: 11cm - 4,3in<br>width: 14cm - 5,5in",
+        "eco": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+      }
+    }
+  },
+  "product-view": {
+
+  }
+}

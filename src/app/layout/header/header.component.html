@@ -1,0 +1,50 @@
+<header class="new-style-header container-fluid">
+    <div class="row">
+        <div class="col-xl-5 col-s-12">
+<!--            <div *ngIf="showLogo" [routerLink]="['/']" class="logo"></div>-->
+            <div style="font-family: 'Poppins-Bold', sans-serif; font-weight: 900; font-size: 20px;">Remmar</div>
+        </div>
+        <div class="col-xl-1 col-s-12">
+            <div class="new-style-header__col">
+                <app-nav-button appMarkAsSelected [link]="('components.new-style-header.nav-button.work-organization-collection.path' | translate)">
+                    {{'Główna' | translate}}
+                </app-nav-button>
+            </div>
+        </div>
+        <div class="col-xl-1 col-s-12">
+            <div class="new-style-header__col">
+                <app-nav-button appMarkAsSelected [link]="'components.new-style-header.nav-button.contact-us.path' | translate">
+                    {{'O nas' | translate}}
+                </app-nav-button>
+            </div>
+        </div>
+        <div class="col-xl-1 col-s-12">
+            <div class="new-style-header__col">
+                <app-nav-button [link]="'components.new-style-header.nav-button.collection.path' | translate" appMarkAsSelected>
+                    {{'Usługi' | translate}}
+                </app-nav-button>
+            </div>
+        </div>
+        <div class="col-xl-1 col-s-12">
+            <div class="new-style-header__col">
+                <app-nav-button [link]="'components.new-style-header.nav-button.collection.path' | translate" appMarkAsSelected>
+                    {{'Realizacje' | translate}}
+                </app-nav-button>
+            </div>
+        </div>
+        <div class="col-xl-1 col-s-12">
+            <div class="new-style-header__col">
+                <app-nav-button [link]="'components.new-style-header.nav-button.collection.path' | translate" appMarkAsSelected>
+                    {{'Kontakt' | translate}}
+                </app-nav-button>
+            </div>
+        </div>
+        <div class="col-xl-auto col-s-12">
+            <div class="new-style-header__col">
+                <app-nav-button [link]="'components.new-style-header.nav-button.collection.path' | translate" appMarkAsSelected>
+                    {{'123-456-789' | translate}}
+                </app-nav-button>
+            </div>
+        </div>
+    </div>
+</header>

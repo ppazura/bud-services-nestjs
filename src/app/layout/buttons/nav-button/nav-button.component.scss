@@ -1,0 +1,16 @@
+.selected {
+  text-decoration-line: underline !important;
+  font-family: IBM-Regular !important;
+}
+
+a {
+  color: black;
+}
+
+a:focus {
+  text-decoration-line: underline !important;
+}
+
+a:hover {
+  color: black;
+}

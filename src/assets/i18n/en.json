@@ -1,0 +1,545 @@
+{
+
+  "components": {
+    "new-style-header": {
+
+      "nav-button": {
+
+        "work-organization-collection": {
+
+          "label": "Work Organization Collection",
+
+          "path": "work-organization-collection"
+
+        },
+
+        "asymmetrical-table-set": {
+
+          "label": "Asymmetrical Table Set",
+
+          "path": "asymmetrical-table-set"
+
+        },
+
+        "products": {
+
+          "label": "Products",
+
+          "path": "products"
+
+        },
+
+        "shop-online": {
+
+          "label": "Shop online",
+
+          "path": "shop-online"
+
+        },
+
+        "contact-us": {
+
+          "label": "Contact us",
+
+          "path": "contact-us"
+
+        },
+
+        "our-story": {
+
+          "label": "Our story",
+
+          "path": "our-story"
+
+        },
+
+        "faq": {
+
+          "label": "FAQ",
+
+          "path": "faq"
+
+        },
+
+        "search": {
+
+          "label": "Search",
+
+          "path": "search"
+
+        },
+        "collection": {
+          "label": "Collection",
+          "path": "collection"
+        }
+
+      }
+
+    },
+
+    "products-header": {
+
+      "nav-button": {
+
+        "all": {
+
+          "label": "All",
+
+          "path": "all"
+
+        },
+
+        "organizers": {
+
+          "label": "Organizers",
+
+          "path": "organizers"
+
+        },
+
+        "trays": {
+
+          "label": "Trays",
+
+          "path": "trays"
+
+        },
+
+        "stands": {
+
+          "label": "Stands",
+
+          "path": "stands"
+
+        }
+
+      }
+
+    }
+
+  },
+
+  "products": {
+
+    "pencil-holder": {
+
+      "name": "",
+
+      "header": "Wooden Desk Organizer",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Elegant wooden desk organizer, handcrafted in solid wood. Made in minimalistic and organic shape. This small piece of wood will be a perfect complement for your interior and work space. Use it to display and organize your tech and everyday needs. The possibilities are endless with one of these organizers. It is a great opportunity to organize your pens, pencils, notes, photos or even makeup and beauty products or jewelry.<br><br>Size L",
+
+      "price": "$105",
+
+      "details": {
+
+        "dimensions": "height: 3cm - 1,2in <br> depth: 11cm - 4,3in <br> width: 14cm - 5,5in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "double-pencil-holder-ash-size-s": {
+
+      "name": "",
+
+      "header": "Piórnik - Everything Organizer <br> Size S / Ash Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Simple and minimalistic wooden pen tray. Timeless and raw form made out of solid ash wood. Designed for your two favorite pens or pencils. Helps to organize and tidy your work space or home interior. We reconcile aesthetics with functionality. We attach great importance to the selection of high-class materials and a high degree of refinement of details.<br><br>Size S",
+      "price": "15 €",
+      "details": {
+        "dimensions": "height: 2cm - 0,79in <br> depth: 4cm - 1,58in <br>width: 16cm - 6,3in",
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+      }
+
+    },
+
+    "double-pencil-holder-oak-size-s": {
+
+      "name": "",
+
+      "header": "Piórnik - Everything Organizer <br> Size S / Oak Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Simple and minimalistic wooden pen tray. Timeless and raw form made out of solid oak wood. Designed for your two favorite pens or pencils. Helps to organize and tidy your work space or home interior. We reconcile aesthetics with functionality. We attach great importance to the selection of high-class materials and a high degree of refinement of details.<br><br>Size S",
+
+      "price": "15 €",
+
+      "details": {
+
+        "dimensions": "height: 2cm - 0,79in<br>depth: 4cm - 1,58in<br>width: 16cm - 6,3in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "pencil-holder-ash-size-l": {
+
+      "name": "",
+
+      "header": "Piórnik - Everything Organizer <br> Size L / Ash Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Elegant wooden desk organizer handcrafted in solid ash wood. Made in minimalistic and organic shape. This small piece of wood will be a perfect complement for your interior and office storage. Use it to display and organize your tech and everyday needs. The possibilities are endless with one of these organizers. It is a great opportunity to organize your pens, pencils, notes, photos or even makeup and beauty products or jewelry. The organizer can also be used as paintbrush holder. We believe your workspace is your command center. An organized desk is not only aesthetics - it is also functionality and efficiency. Let us organize your space!<br><br>Size L",
+
+      "price": "29 €",
+
+      "details": {
+
+        "dimensions": "height: 3cm - 1,2in<br>depth: 11cm - 4,3in<br>width: 14cm - 5,5in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "pencil-holder-ash-size-m": {
+
+      "name": "",
+
+      "header": "Piórnik - Everything Organizer <br> Size M / Ash Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Elegant wooden desk organizer handcrafted in solid ash wood. Made in minimalistic and organic shape. This small piece of wood will be a perfect complement for your interior and office storage. Use it to display and organize your tech and everyday needs. The possibilities are endless with one of these organizers. It is a great opportunity to organize your pens, pencils, notes, photos or even makeup and beauty products or jewelry. The organizer can also be used as paintbrush holder. We believe your workspace is your command center. An organized desk is not only aesthetics - it is also functionality and efficiency. Let us organize your space!<br><br>Size M",
+
+      "price": "25 €",
+
+      "details": {
+
+        "dimensions": "height: 3cm - 1,2in<br>depth: 8cm - 3,2in<br>width: 14cm - 5,5in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "pencil-holder-oak-size-l": {
+
+      "name": "",
+
+      "header": "Piórnik - Everything Organizer <br> Size L / Oak Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Elegant wooden desk organizer handcrafted in solid oak wood. Made in minimalistic and organic shape. This small piece of wood will be a perfect complement for your interior and office storage. Use it to display and organize your tech and everyday needs. The possibilities are endless with one of these organizers. It is a great opportunity to organize your pens, pencils, notes, photos or even makeup and beauty products or jewelry. The organizer can also be used as paintbrush holder. We believe your workspace is your command center. An organized desk is not only aesthetics - it is also functionality and efficiency. Let us organize your space!<br><br>Size L",
+
+      "price": "29 €",
+
+      "details": {
+
+        "dimensions": "height: 3cm - 1,2in<br>depth: 11cm - 4,3in<br>width: 14cm - 5,5in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "pencil-holder-oak-size-m": {
+
+      "name": "",
+
+      "header": "Piórnik - Everything Organizer <br> Size M / Oak Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Elegant wooden desk organizer handcrafted in solid oak wood. Made in minimalistic and organic shape. This small piece of wood will be a perfect complement for your interior and office storage. Use it to display and organize your tech and everyday needs. The possibilities are endless with one of these organizers. It is a great opportunity to organize your pens, pencils, notes, photos or even makeup and beauty products or jewelry. The organizer can also be used as paintbrush holder. We believe your workspace is your command center. An organized desk is not only aesthetics - it is also functionality and efficiency. Let us organize your space!<br><br>Size M",
+
+      "price": "25 €",
+
+      "details": {
+
+        "dimensions": "height: 3cm - 1,2in<br>depth: 8cm - 3,2in<br>width: 14cm - 5,5in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "stand-oak": {
+
+      "name": "",
+
+      "header": "Stojak - Single Laptop Stand <br> One Size / Oak Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Elegant wooden desk organizer, handcrafted in solid wood. Made in minimalistic and organic shape. This small piece of wood will be a perfect complement for your interior and work space. Use it to display and organize your tech and everyday needs. The possibilities are endless with one of these organizers. It is a great opportunity to organize your pens, pencils, notes, photos or even makeup and beauty products or jewelry.<br><br>Size L",
+
+      "price": "35 €",
+
+      "details": {
+
+        "dimensions": "height: 5cm - 2in<br>depth: 8cm - 3,2in<br>width: 14,5cm - 5,7in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "tray-ash-size-s": {
+
+      "name": "",
+
+      "header": "Podstawek - Cup & Pen Tray <br> One Size / Ash Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Simple and minimalistic wooden tray. Timeless and raw form made out of solid ask wood. Designed as a mug or cup coaster for home interior or work space. Perfect for warm drinks during long hours of working or long hours of spending time with friends and family. V-shape grooves are universal to use. In the grooves you can put pens, pencils, brushes and many others. We reconcile aesthetics with functionality. We attach great importance to the selection of high-class materials and a high degree of refinement of details.",
+
+      "price": "25 €",
+
+      "details": {
+
+        "dimensions": "height: 1,5cm - 0,6in<br>depth: 10cm - 3,9in<br>width: 20cm - 7,9in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    },
+
+    "tray-oak-size-s": {
+
+      "name": "",
+
+      "header": "Podstawek - Cup & Pen Tray <br> One Size / Oak Wood",
+
+      "selectors": {
+
+        "wood-type": {
+
+          "label": "Wood type",
+
+          "options": {
+
+            "oak": "Oak",
+
+            "ash": "Ash"
+
+          }
+
+        }
+
+      },
+
+      "description": "Simple and minimalistic wooden tray. Timeless and raw form made out of solid oak wood. Designed as a mug or cup coaster for home interior or work space. Perfect for warm drinks during long hours of working or long hours of spending time with friends and family. V-shape grooves are universal to use. In the grooves you can put pens, pencils, brushes and many others. We reconcile aesthetics with functionality. We attach great importance to the selection of high-class materials and a high degree of refinement of details.",
+
+      "price": "25 €",
+
+      "details": {
+
+        "dimensions": "height: 1,5cm - 0,6in<br>depth: 10cm - 3,9in<br>width: 20cm - 7,9in",
+
+        "materials": "Our products are made only of natural and biodegradable, raw materials - solid wood. Finished with ecological oils and waxes. Buying our products you may have 100% sure that they are made in an ethical way by our hands.",
+
+        "maintenance": "The product is protected with an oil-wax layer that protects the surface of the raw material against penetration into the liquid, dirt and dust. Despite the protection, however, we advise you to immediately remove any stains and contamination from the surface of the product. Do not clean the product with strong detergents. In everyday maintenance, we recommend wiping the product with a cotton, damp cloth.",
+
+        "note": "Ladies and Gentlemen, all our products are handcrafted in our small workshop in the West Pomeranian part of Poland. It is the fruit of working with our hands, which makes us proud that each of the products might be slightly different from its siblings. Due to the product is measured manually, there may be an error about the size, thanks for your kind understanding.\n"
+
+      }
+
+    }
+
+  },
+
+  "product-view": {
+
+
+
+  }
+
+}

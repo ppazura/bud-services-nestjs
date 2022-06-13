@@ -1,0 +1,36 @@
+@import "~bootstrap/scss/bootstrap-grid";
+
+
+.carousel__slide {
+  height: 65rem !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  background-clip: content-box;
+
+  &:nth-child(1) {
+    background-image: url('/assets/pic1.jpg');
+  }
+
+}
+
+@include media-breakpoint-down(sm) {
+  .carousel__slide {
+    height: 44rem !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 94vh;
+    width: 100%;
+    background-clip: content-box;
+  }
+
+}

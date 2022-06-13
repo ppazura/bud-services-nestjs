@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap-grid";
+
+.welcome-page {
+  min-height: 100vh;
+}
+
+@include media-breakpoint-down(sm) {
+  .welcome-page__product-grid--padding {
+    padding-top: 8rem;
+  }
+}
+
+@include media-breakpoint-up(sm) {
+  .welcome-page__product-grid--padding {
+    padding-top: 20rem;
+  }
+}

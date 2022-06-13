@@ -1,0 +1,5 @@
+<section [ngClass]="isCollectionPage ? 'basic-page--collection' : ''" class="basic-page" >
+    <app-header *ngIf="!presentationUtils.isMobile"></app-header>
+    <router-outlet></router-outlet>
+    <app-footer></app-footer>
+</section>

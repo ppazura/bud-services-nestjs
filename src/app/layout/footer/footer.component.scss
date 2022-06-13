@@ -1,0 +1,77 @@
+@import "~bootstrap/scss/bootstrap-grid";
+
+
+
+@include media-breakpoint-up(sm) {
+
+  .footer-border {
+    border-top: 1px solid black;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+  }
+
+  .footer-logo {
+    background-image: url(/assets/logo_balans.png);
+    height: 80px !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-clip: content-box;
+    z-index: 1000;
+    width: 102px;
+    transform: scale(0.5);
+    margin-top: -1rem;
+  }
+
+  .new-style-footer {
+    line-height: 30px;
+    font-size: 14px;
+    padding: 0rem 4rem;
+    padding-bottom: 3rem;
+
+    &__col {
+      &--right {
+        text-align: right;
+      }
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+
+  .logo {
+    background-image: url(/assets/logo_balans.png);
+    height: 80px !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-clip: content-box;
+    z-index: 1000;
+    width: 102px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    transform: scale(0.8);
+  }
+
+  .new-style-footer {
+    padding: 1rem 1rem;
+    line-height: 1.8rem;
+    &__col {
+      &--right {
+        text-align: left;
+      }
+    }
+  }
+
+  .footer-border {
+    border-top: 1px solid black;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+}

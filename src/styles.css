@@ -1,0 +1,32 @@
+
+* {
+    font-family: 'Poppins-ExtraLight', sans-serif;
+    font-weight: 300;
+    word-spacing: -3px;
+}
+
+
+body {
+    font-family: 'Poppins-ExtraLight', sans-serif;
+}
+
+@font-face {
+    font-family: Poppins-ExtraLight;
+    src: url(/assets/fonts/Poppins/Poppins-ExtraLight.ttf) format("opentype");
+}
+
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(/assets/fonts/Poppins/Poppins-Bold.ttf) format("opentype");
+}
+
+
+a, a:focus, a:hover {
+    text-decoration: none !important;
+    color: inherit;
+}
+
+body {
+    margin: 0;
+}

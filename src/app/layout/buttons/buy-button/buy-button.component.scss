@@ -1,0 +1,50 @@
+.buy-button {
+  display: flex;
+  flex-direction: row;
+}
+
+//.selected {
+//  text-decoration-line: underline !important;
+//  font-family: IBM-Regular !important;
+//}
+//
+//a {
+//  color: black;
+//}
+//
+//a:focus {
+//  text-decoration-line: underline !important;
+//}
+//
+//a:hover {
+//  color: black;
+//}
+
+.buy-button {
+  a {
+    text-align: center;
+    padding: 0.5rem 0rem 0.5rem 0.5rem;
+  }
+  a:hover {
+    border: 1px solid black; border-radius: 0; background-color: #f7f6f1;
+  }
+}
+
+@import "~bootstrap/scss/bootstrap-grid";
+
+@include media-breakpoint-up(sm) {
+  .buy-button {
+    a {
+      flex-grow: 1; margin-left: 5rem; margin-top: 1rem; border: 1px solid black; border-radius: 0; background-color: #f7f6f1;
+    }
+  }
+}
+
+
+@include media-breakpoint-down(sm) {
+  .buy-button {
+    a {
+      flex-grow: 1; margin-top: 1rem; border: 1px solid black; border-radius: 0; background-color: #f7f6f1;
+    }
+  }
+}
