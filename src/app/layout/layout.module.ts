@@ -11,6 +11,13 @@ import {RouterModule} from '@angular/router';
 import {CommonModule} from '@angular/common';
 import {NewWelcomeOverlayComponent} from './new-welcome-overlay/new-welcome-overlay.component';
 import {DescribeOverlayComponent} from './describe-overlay/describe-overlay.component';
+import {AboutUsWidgetComponent} from "./about-us-widget/about-us-widget.component";
+import {AdvantageWidgetComponent} from "./advantage-widget/advantage-widget.component";
+import {ChoiceUsOverlayComponent} from "./choice-us-overlay/choice-us-overlay.component";
+import {OurServicesOverlayComponent} from "./our-services-overlay/our-services-overlay.component";
+import {ServiceWidgetComponent} from "./service-widget/service-widget.component";
+import {CustomerReviewsOverlayComponent} from "./customer-reviews-overlay/customer-reviews-overlay.component";
+import {CustomerReviewWidgetComponent} from "./customer-review-widget/customer-review-widget.component";
 
 @NgModule({
     imports: [
@@ -24,7 +31,10 @@ import {DescribeOverlayComponent} from './describe-overlay/describe-overlay.comp
         FooterComponent,
         HeaderComponent,
         NewWelcomeOverlayComponent,
-        DescribeOverlayComponent
+        DescribeOverlayComponent,
+        ChoiceUsOverlayComponent,
+        OurServicesOverlayComponent,
+        CustomerReviewsOverlayComponent
     ],
     declarations: [
         BuyButtonComponent,
@@ -34,7 +44,14 @@ import {DescribeOverlayComponent} from './describe-overlay/describe-overlay.comp
         FooterComponent,
         HeaderComponent,
         NewWelcomeOverlayComponent,
-        DescribeOverlayComponent
+        DescribeOverlayComponent,
+        AboutUsWidgetComponent,
+        AdvantageWidgetComponent,
+        ChoiceUsOverlayComponent,
+        OurServicesOverlayComponent,
+        ServiceWidgetComponent,
+        CustomerReviewsOverlayComponent,
+        CustomerReviewWidgetComponent
     ]
 })
 export class LayoutModule {}

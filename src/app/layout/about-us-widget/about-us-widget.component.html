@@ -1,0 +1,15 @@
+<section class="about-us-widget p-5">
+    <div>
+        <div class="about-us-widget__header">
+            <div>
+                <ng-content select="[header]"></ng-content>
+            </div>
+            <div class="my-3">
+                <ng-content select="[content]"></ng-content>
+            </div>
+        </div>
+        <button [routerLink]="'products'" class="btn shop-now" style="font-size: 20px; padding: 5px">
+            <ng-content select="[button]"></ng-content>
+        </button>
+    </div>
+</section>
