@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50680b57-a251-4eb3-a028-f4405f9d0649" name="Default Changelist" comment="" />
+    <list default="true" id="50680b57-a251-4eb3-a028-f4405f9d0649" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout/footer/footer.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout/footer/footer.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout/header/header.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout/header/header.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout/service-widget/service-widget.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout/service-widget/service-widget.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ComposerSettings">
     <execution>
@@ -19,10 +30,24 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="2AXCrzZYtUIvWS1A9MtZ9yXWl0l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/layout" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/layout" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,7 +71,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655146745749</updated>
+      <workItem from="1655146747654" duration="876000" />
+      <workItem from="1656689801861" duration="7864000" />
+      <workItem from="1657308388192" duration="1480000" />
+      <workItem from="1658167111294" duration="1738000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1655146803526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655146803526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="last changes">
+      <created>1658172417169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658172417169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="last changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="last changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="737" y="341" key="CommitChangelistDialog2" timestamp="1658172416005">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state x="737" y="341" key="CommitChangelistDialog2/0.25.1920.1117@0.25.1920.1117" timestamp="1658172416005" />
+    <state x="2834" y="358" key="CommitChangelistDialog2/1680.-228.3008.1667/0.25.1680.972@1680.-228.3008.1667" timestamp="1655146803120" />
+    <state width="1878" height="307" key="GridCell.Tab.0.bottom" timestamp="1656698441210">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state width="1878" height="307" key="GridCell.Tab.0.bottom/0.25.1920.1117@0.25.1920.1117" timestamp="1656698441210" />
+    <state width="1878" height="307" key="GridCell.Tab.0.center" timestamp="1656698441209">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state width="1878" height="307" key="GridCell.Tab.0.center/0.25.1920.1117@0.25.1920.1117" timestamp="1656698441209" />
+    <state width="1878" height="307" key="GridCell.Tab.0.left" timestamp="1656698441209">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state width="1878" height="307" key="GridCell.Tab.0.left/0.25.1920.1117@0.25.1920.1117" timestamp="1656698441209" />
+    <state width="1878" height="307" key="GridCell.Tab.0.right" timestamp="1656698441210">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state width="1878" height="307" key="GridCell.Tab.0.right/0.25.1920.1117@0.25.1920.1117" timestamp="1656698441210" />
+    <state x="799" y="510" key="Vcs.Push.Dialog.v2" timestamp="1658172421704">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state x="799" y="510" key="Vcs.Push.Dialog.v2/0.25.1920.1117@0.25.1920.1117" timestamp="1658172421704" />
+    <state x="2932" y="496" key="Vcs.Push.Dialog.v2/1680.-228.3008.1667/0.25.1680.972@1680.-228.3008.1667" timestamp="1655146806545" />
+    <state x="517" y="458" key="com.intellij.ide.util.TipDialog" timestamp="1658167119313">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state x="517" y="458" key="com.intellij.ide.util.TipDialog/0.25.1920.1117@0.25.1920.1117" timestamp="1658167119313" />
+    <state x="623" y="345" width="674" height="476" key="find.popup" timestamp="1658173695822">
+      <screen x="0" y="25" width="1920" height="1117" />
+    </state>
+    <state x="623" y="345" width="674" height="476" key="find.popup/0.25.1920.1117@0.25.1920.1117" timestamp="1658173695822" />
   </component>
 </project>
